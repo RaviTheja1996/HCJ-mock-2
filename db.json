@@ -12,7 +12,7 @@
         "JavaScript"
       ],
       "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
+      "profile_picture": "https://rb.gy/tj8kns",
       "isBooked": false
     },
     {
@@ -26,7 +26,7 @@
         "Illustrator"
       ],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
+      "profile_picture": "https://shorturl.at/DJST0",
       "isBooked": true
     }
   ]
